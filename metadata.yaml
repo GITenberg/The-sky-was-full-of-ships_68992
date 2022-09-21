@@ -1,0 +1,25 @@
+_repo: The-sky-was-full-of-ships_68992
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sturgeon, Theodore
+    gutenberg_agent_id: '55048'
+    url: http://www.gutenberg.org/2009/agents/55048
+description: ''
+gutenberg_issued: '2022-09-15'
+identifiers:
+  gutenberg: '68992'
+language: en
+pgterms:marc905: 20220512104020sturgeon
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Standard Magazines, Inc.,1947.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The sky was full of ships
+url: http://www.gutenberg.org/ebooks/68992
